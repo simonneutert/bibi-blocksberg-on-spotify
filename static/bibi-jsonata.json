@@ -1,0 +1,9 @@
+{
+    "items": $sort(items[$match(name, /^Folge \d+:/)].{
+        "name": $split(name, /Folge \d+: /)[1],
+        "episode": $number($match($split(name, /Folge /)[1], /\d+/)[0].match),
+        "spotifyUri": uri,
+        "href": href,
+        "images": images
+    }, function($l, $r) {$l.episode > $r.episode})
+}
