@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1 class="title">
-      Bibi Blocksberg auf Spotify
+      Bibi Blocksberg auf <span class="spotify">Spotify</span> 🧙‍♀️
     </h1>
 
     <div id="search-form">
@@ -50,9 +50,12 @@ export default {
         this.playlist = Object.assign({}, this.playlistInit)
         const result = this.playlist.items.filter(
           function(album) {
-            return album.name
-              .toLowerCase()
-              .includes(this.searchInput.toLowerCase())
+            return (
+              album.name
+                .toLowerCase()
+                .includes(this.searchInput.toLowerCase()) ||
+              String(album.episode).includes(this.searchInput)
+            )
           }.bind(this)
         )
 
