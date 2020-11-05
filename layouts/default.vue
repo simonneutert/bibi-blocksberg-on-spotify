@@ -2,14 +2,17 @@
   <div>
     <Hello />
     <nuxt />
+    <Footer />
   </div>
 </template>
 
 <script>
 import { Hello } from '@@/components/Hello'
+import { Footer } from '@@/components/Footer'
 export default {
   components: {
-    Hello
+    Hello,
+    Footer
   }
 }
 </script>

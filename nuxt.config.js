@@ -1,5 +1,5 @@
 module.exports = {
-  mode: 'universal',
+  mode: 'static',
   /*
    ** Headers of the page
    */
@@ -57,6 +57,6 @@ module.exports = {
     /*
      ** You can extend webpack config here
      */
-    extend(config, ctx) {}
+    extend(config, ctx) { }
   }
 }
