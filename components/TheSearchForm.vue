@@ -49,9 +49,11 @@ export default {
   props: {
     searchableItems: { type: Array, required: true }
   },
+  mounted() {
+    this.searchableItemsCopy = this.searchableItems
+  },
   methods: {
     searchEpisode() {
-      console.log(this.searchableItems)
       if (this.searchInput.length) {
         this.searchableItemsCopy = this.searchableItems.slice()
         const result = this.searchableItemsCopy.filter(
