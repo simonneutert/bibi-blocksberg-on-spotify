@@ -1,11 +1,9 @@
 <template>
-  <b-container id="hello">
-    <b-row class="mb-4">
-      <h1 class="title">
-        <span class="hexe">Bibi Blocksberg auf </span
-        ><span class="spotify">Spotify</span>
-      </h1>
-    </b-row>
+  <b-container id="hello-container">
+    <h1 class="title">
+      <span class="hexe">Bibi Blocksberg auf </span
+      ><span class="spotify">Spotify</span> 🧹
+    </h1>
   </b-container>
 </template>
 
@@ -14,16 +12,18 @@ export default {}
 </script>
 
 <style>
-#hello {
-  min-height: 100vh;
+#hello-container {
+  min-height: 130px;
+  text-align: center;
+  background-color: hotpink;
 }
 .hexe {
   color: white;
-  opacity: 0.2;
+  opacity: 0.95;
   transition: 0.3s;
 }
 .hexe:hover {
-  opacity: 1;
+  opacity: 0.8;
 }
 .spotify {
   color: white;

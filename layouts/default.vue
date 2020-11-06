@@ -1,19 +1,14 @@
 <template>
-  <div>
-    <Hello />
-    <nuxt />
-    <Footer />
-  </div>
+  <b-container>
+    <TheHello />
+    <Nuxt />
+    <TheFooter />
+  </b-container>
 </template>
 
 <script>
-import { Hello } from '@@/components/Hello'
-import { Footer } from '@@/components/Footer'
 export default {
-  components: {
-    Hello,
-    Footer
-  }
+  components: {}
 }
 </script>
 
