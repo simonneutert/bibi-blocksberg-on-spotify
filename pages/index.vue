@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1 class="title">
-      Bibi Blocksberg auf <span class="spotify">Spotify</span> 🧙‍♀️
+      Bibi Blocksberg auf <span class="spotify">Spotify</span> 🧹
     </h1>
 
     <div id="search-form">
