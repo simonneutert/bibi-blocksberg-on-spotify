@@ -1,7 +1,7 @@
 <template>
   <b-container>
     <ScrollToBottom />
-    <TheSearchForm :searchableItems="playlist.items" />
+    <TheSearchForm :searchable-items="playlist.items" />
   </b-container>
 </template>
 
