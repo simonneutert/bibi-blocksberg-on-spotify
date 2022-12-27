@@ -1,0 +1,3109 @@
+{
+  "items": [
+    {
+      "name": "Hexen gibt es doch",
+      "episode": 1,
+      "spotifyUri": "spotify:album:016dC2sOt7x7FXQ6N8Bxi5",
+      "href": "https://open.spotify.com/album/016dC2sOt7x7FXQ6N8Bxi5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c5e6ec24ec153583fae48ca8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c5e6ec24ec153583fae48ca8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c5e6ec24ec153583fae48ca8",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Hexerei in der Schule",
+      "episode": 2,
+      "spotifyUri": "spotify:album:6X51IeJchTdorw4xosg6ha",
+      "href": "https://open.spotify.com/album/6X51IeJchTdorw4xosg6ha",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273832aa57b4c861818cbca237b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02832aa57b4c861818cbca237b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851832aa57b4c861818cbca237b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Zauberlimonade",
+      "episode": 3,
+      "spotifyUri": "spotify:album:14igDYerOOomBtHHYxvFLz",
+      "href": "https://open.spotify.com/album/14igDYerOOomBtHHYxvFLz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27360fd5f2d5ff52a277d307cca",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0260fd5f2d5ff52a277d307cca",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485160fd5f2d5ff52a277d307cca",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Bankräuber",
+      "episode": 4,
+      "spotifyUri": "spotify:album:7fj4TDf4T2thg5BuFUluNY",
+      "href": "https://open.spotify.com/album/7fj4TDf4T2thg5BuFUluNY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f1d29b1707df47ffd077a618",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f1d29b1707df47ffd077a618",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f1d29b1707df47ffd077a618",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Ein verhexter Urlaub",
+      "episode": 5,
+      "spotifyUri": "spotify:album:0OhISkdajK4qD5fx9CxPpx",
+      "href": "https://open.spotify.com/album/0OhISkdajK4qD5fx9CxPpx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739ee38a34e55cef136d78ea49",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029ee38a34e55cef136d78ea49",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519ee38a34e55cef136d78ea49",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Kuh im Schlafzimmer",
+      "episode": 6,
+      "spotifyUri": "spotify:album:5iu0MDEgjEJPmVE0aZ7CN3",
+      "href": "https://open.spotify.com/album/5iu0MDEgjEJPmVE0aZ7CN3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27353f987dba8ca07d93fb2a2e9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0253f987dba8ca07d93fb2a2e9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485153f987dba8ca07d93fb2a2e9",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "heilt den Bürgermeister",
+      "episode": 7,
+      "spotifyUri": "spotify:album:0viYjQhnyJVulf0D265Qnd",
+      "href": "https://open.spotify.com/album/0viYjQhnyJVulf0D265Qnd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27317032b22179e60f46ae07403",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0217032b22179e60f46ae07403",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485117032b22179e60f46ae07403",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Schlossgespenster",
+      "episode": 8,
+      "spotifyUri": "spotify:album:4evoKVgGoAw4R617nW85W5",
+      "href": "https://open.spotify.com/album/4evoKVgGoAw4R617nW85W5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e4b028857b410ea7a7f2442a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e4b028857b410ea7a7f2442a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e4b028857b410ea7a7f2442a",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "verliebt sich",
+      "episode": 9,
+      "spotifyUri": "spotify:album:4UiRVmfNLWyGMDbPzg109x",
+      "href": "https://open.spotify.com/album/4UiRVmfNLWyGMDbPzg109x",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736fffb9a579b1ea6499bf7d2f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026fffb9a579b1ea6499bf7d2f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516fffb9a579b1ea6499bf7d2f",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Bibis neue Freundin",
+      "episode": 10,
+      "spotifyUri": "spotify:album:5TAliz0iVXH4UnnG3xuUSa",
+      "href": "https://open.spotify.com/album/5TAliz0iVXH4UnnG3xuUSa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b61c25de81551a4660628a5d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b61c25de81551a4660628a5d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b61c25de81551a4660628a5d",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Schulausflug",
+      "episode": 11,
+      "spotifyUri": "spotify:album:26zN16SJvC23dC1HjQr8TW",
+      "href": "https://open.spotify.com/album/26zN16SJvC23dC1HjQr8TW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273474a0d7682acba193951996e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02474a0d7682acba193951996e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851474a0d7682acba193951996e",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "hat Geburtstag",
+      "episode": 12,
+      "spotifyUri": "spotify:album:6v2cxj3fmW8LevdIJ7Ygz7",
+      "href": "https://open.spotify.com/album/6v2cxj3fmW8LevdIJ7Ygz7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736e9a6d03c67d14cd89751873",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026e9a6d03c67d14cd89751873",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516e9a6d03c67d14cd89751873",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Ein verhexter Sonntag",
+      "episode": 13,
+      "spotifyUri": "spotify:album:6IQnx6E5uQSJEz04WyJGvQ",
+      "href": "https://open.spotify.com/album/6IQnx6E5uQSJEz04WyJGvQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f9e1eefe1383f8d5639e26b7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f9e1eefe1383f8d5639e26b7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f9e1eefe1383f8d5639e26b7",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "in Amerika",
+      "episode": 14,
+      "spotifyUri": "spotify:album:7BLGgpfiTb4mhgcZ57wuzH",
+      "href": "https://open.spotify.com/album/7BLGgpfiTb4mhgcZ57wuzH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b9fc0c9b223e2d3efc8f5c6b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b9fc0c9b223e2d3efc8f5c6b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b9fc0c9b223e2d3efc8f5c6b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die schwarzen Vier",
+      "episode": 15,
+      "spotifyUri": "spotify:album:1WHT8t9eOxHOTitSRiDI1K",
+      "href": "https://open.spotify.com/album/1WHT8t9eOxHOTitSRiDI1K",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739427cd078256263f92379f76",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029427cd078256263f92379f76",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519427cd078256263f92379f76",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das Schulfest",
+      "episode": 16,
+      "spotifyUri": "spotify:album:3CyUN5uejVe7VUTXbYiKGv",
+      "href": "https://open.spotify.com/album/3CyUN5uejVe7VUTXbYiKGv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273422a1f96159fc7bb1779feac",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02422a1f96159fc7bb1779feac",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851422a1f96159fc7bb1779feac",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der kleine Hexer",
+      "episode": 17,
+      "spotifyUri": "spotify:album:5waLQdOgHq5P3hlHcJG82J",
+      "href": "https://open.spotify.com/album/5waLQdOgHq5P3hlHcJG82J",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d8de56989c305e69fe37ff91",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d8de56989c305e69fe37ff91",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d8de56989c305e69fe37ff91",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Auf dem Hexenberg",
+      "episode": 18,
+      "spotifyUri": "spotify:album:0tc9PpO2BKS6ELuwrY3qcq",
+      "href": "https://open.spotify.com/album/0tc9PpO2BKS6ELuwrY3qcq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738d30510c99581001f16507a4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028d30510c99581001f16507a4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518d30510c99581001f16507a4",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das Sportfest",
+      "episode": 19,
+      "spotifyUri": "spotify:album:66CaSx2cXiWgUqjV9vR1Tb",
+      "href": "https://open.spotify.com/album/66CaSx2cXiWgUqjV9vR1Tb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27359e258a1b87a4f3f33af98b7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0259e258a1b87a4f3f33af98b7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485159e258a1b87a4f3f33af98b7",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Papa ist weg",
+      "episode": 20,
+      "spotifyUri": "spotify:album:1Sae0p3RKO0xocgbqd2get",
+      "href": "https://open.spotify.com/album/1Sae0p3RKO0xocgbqd2get",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d0542f3661c1c027ff7a0d21",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d0542f3661c1c027ff7a0d21",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d0542f3661c1c027ff7a0d21",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "zieht um",
+      "episode": 21,
+      "spotifyUri": "spotify:album:7sV2OMe8kI7zB3BQjii8kk",
+      "href": "https://open.spotify.com/album/7sV2OMe8kI7zB3BQjii8kk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739bdbd68a89763fffe3e70464",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029bdbd68a89763fffe3e70464",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519bdbd68a89763fffe3e70464",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "3x schwarzer Kater",
+      "episode": 22,
+      "spotifyUri": "spotify:album:2TsmeG5H55T9lBHWtPQFyZ",
+      "href": "https://open.spotify.com/album/2TsmeG5H55T9lBHWtPQFyZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ed327271315cc1c304732369",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ed327271315cc1c304732369",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ed327271315cc1c304732369",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "und der Autostau",
+      "episode": 23,
+      "spotifyUri": "spotify:album:2LCPUZQHR4ccuElIFKEmnE",
+      "href": "https://open.spotify.com/album/2LCPUZQHR4ccuElIFKEmnE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d75d8ba283efbc087c4d14d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022d75d8ba283efbc087c4d14d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512d75d8ba283efbc087c4d14d",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Supermarkt",
+      "episode": 24,
+      "spotifyUri": "spotify:album:5xagNxpBIparuhPw9YwFZU",
+      "href": "https://open.spotify.com/album/5xagNxpBIparuhPw9YwFZU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e8e9c6bfbe00a09c67355d38",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e8e9c6bfbe00a09c67355d38",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e8e9c6bfbe00a09c67355d38",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "reißt aus",
+      "episode": 25,
+      "spotifyUri": "spotify:album:6ZW1C8ryUxEWQnL06qYzUu",
+      "href": "https://open.spotify.com/album/6ZW1C8ryUxEWQnL06qYzUu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273eee9ae1185bc3e64e5c6a59e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02eee9ae1185bc3e64e5c6a59e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851eee9ae1185bc3e64e5c6a59e",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Schnitzeljagd",
+      "episode": 26,
+      "spotifyUri": "spotify:album:0DIfUps0Z42y9R1qmIdgJs",
+      "href": "https://open.spotify.com/album/0DIfUps0Z42y9R1qmIdgJs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec0af0214eed5aeb34822bf7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec0af0214eed5aeb34822bf7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ec0af0214eed5aeb34822bf7",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die verhexte Hitparade",
+      "episode": 27,
+      "spotifyUri": "spotify:album:5erPQX1yxlnMesKnHIHdaD",
+      "href": "https://open.spotify.com/album/5erPQX1yxlnMesKnHIHdaD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27327936fd1c8c421417535fb1f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0227936fd1c8c421417535fb1f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485127936fd1c8c421417535fb1f",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "im Dschungel",
+      "episode": 28,
+      "spotifyUri": "spotify:album:4BbDgXrHhanWUpd8essOOo",
+      "href": "https://open.spotify.com/album/4BbDgXrHhanWUpd8essOOo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734f967377f673b7d936b46380",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024f967377f673b7d936b46380",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514f967377f673b7d936b46380",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der neue Hexenbesen",
+      "episode": 29,
+      "spotifyUri": "spotify:album:4ObgiuEUvF147RqsosuV0U",
+      "href": "https://open.spotify.com/album/4ObgiuEUvF147RqsosuV0U",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e4cd165c27045e3d5b972d6b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e4cd165c27045e3d5b972d6b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e4cd165c27045e3d5b972d6b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "in der Ritterzeit",
+      "episode": 30,
+      "spotifyUri": "spotify:album:33VBPH6HeKEpqqWXDtmy9S",
+      "href": "https://open.spotify.com/album/33VBPH6HeKEpqqWXDtmy9S",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273de9e20c9834128170f2398f0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02de9e20c9834128170f2398f0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851de9e20c9834128170f2398f0",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Auf der Märcheninsel",
+      "episode": 31,
+      "spotifyUri": "spotify:album:3akqYpDWmz2ea4ITUeD4UU",
+      "href": "https://open.spotify.com/album/3akqYpDWmz2ea4ITUeD4UU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cfc66037467a96718d374d99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cfc66037467a96718d374d99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cfc66037467a96718d374d99",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "als Prinzessin",
+      "episode": 32,
+      "spotifyUri": "spotify:album:3wT6JhGI0wcOr7EyTc2m2a",
+      "href": "https://open.spotify.com/album/3wT6JhGI0wcOr7EyTc2m2a",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d50bfeb5d1592e9fe72050f3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d50bfeb5d1592e9fe72050f3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d50bfeb5d1592e9fe72050f3",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "als Babysitter",
+      "episode": 33,
+      "spotifyUri": "spotify:album:3KDqhf6L5aRlMiMKJyobV1",
+      "href": "https://open.spotify.com/album/3KDqhf6L5aRlMiMKJyobV1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f9a04a87671448cd65644240",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f9a04a87671448cd65644240",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f9a04a87671448cd65644240",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "darf nicht hexen",
+      "episode": 34,
+      "spotifyUri": "spotify:album:5XGOUZGOQGIgeGmsVfwVzA",
+      "href": "https://open.spotify.com/album/5XGOUZGOQGIgeGmsVfwVzA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273965bbcafcefee4ef8034dd6e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02965bbcafcefee4ef8034dd6e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851965bbcafcefee4ef8034dd6e",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Hexenfluch",
+      "episode": 35,
+      "spotifyUri": "spotify:album:3dhTDo27zieo3NKG9yWDOm",
+      "href": "https://open.spotify.com/album/3dhTDo27zieo3NKG9yWDOm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737d403197bc7c0247b08c5f7e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027d403197bc7c0247b08c5f7e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517d403197bc7c0247b08c5f7e",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die weißen Enten",
+      "episode": 36,
+      "spotifyUri": "spotify:album:4RQjXVys2iOp9zGm0rXCC1",
+      "href": "https://open.spotify.com/album/4RQjXVys2iOp9zGm0rXCC1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27373b0dde6b64161f5b410132d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0273b0dde6b64161f5b410132d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485173b0dde6b64161f5b410132d",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Flohmarkt",
+      "episode": 37,
+      "spotifyUri": "spotify:album:1ejqpqYmyAoe6gSwD40lNL",
+      "href": "https://open.spotify.com/album/1ejqpqYmyAoe6gSwD40lNL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e983c5df7cab7677f0d3a5cf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e983c5df7cab7677f0d3a5cf",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e983c5df7cab7677f0d3a5cf",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Weihnachtsmänner",
+      "episode": 38,
+      "spotifyUri": "spotify:album:5ju4E5z2e8haWhNVI6jvah",
+      "href": "https://open.spotify.com/album/5ju4E5z2e8haWhNVI6jvah",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735d7cd18667ae96dbeb21c870",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025d7cd18667ae96dbeb21c870",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515d7cd18667ae96dbeb21c870",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Unverhofftes Wiedersehen",
+      "episode": 39,
+      "spotifyUri": "spotify:album:0awBJkPdlBHlWxUf3npiT4",
+      "href": "https://open.spotify.com/album/0awBJkPdlBHlWxUf3npiT4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27332be65169b3f48d1e181cdc3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0232be65169b3f48d1e181cdc3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485132be65169b3f48d1e181cdc3",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "und die Vampire",
+      "episode": 40,
+      "spotifyUri": "spotify:album:49zMhdaThDGD3YdlpWU6ld",
+      "href": "https://open.spotify.com/album/49zMhdaThDGD3YdlpWU6ld",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a2d1a05eb2874a8e93e09baa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a2d1a05eb2874a8e93e09baa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a2d1a05eb2874a8e93e09baa",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Ohne Mami geht es nicht",
+      "episode": 41,
+      "spotifyUri": "spotify:album:1xdobvCo2gCgsPybqQo4kP",
+      "href": "https://open.spotify.com/album/1xdobvCo2gCgsPybqQo4kP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fd7f9390be6c6a59c0e3af3b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fd7f9390be6c6a59c0e3af3b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fd7f9390be6c6a59c0e3af3b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "im Zirkus",
+      "episode": 42,
+      "spotifyUri": "spotify:album:3axhlalFLU2684Ffm0u0Rp",
+      "href": "https://open.spotify.com/album/3axhlalFLU2684Ffm0u0Rp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec8fb3d48d7321dd608f0d77",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec8fb3d48d7321dd608f0d77",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ec8fb3d48d7321dd608f0d77",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Reiterhof (Teil 1)",
+      "episode": 43,
+      "spotifyUri": "spotify:album:6uacZqeyRJY1fg3cSdESi4",
+      "href": "https://open.spotify.com/album/6uacZqeyRJY1fg3cSdESi4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730227a8305de3ca57487fafcd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020227a8305de3ca57487fafcd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510227a8305de3ca57487fafcd",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Reiterhof (Teil 2)",
+      "episode": 44,
+      "spotifyUri": "spotify:album:5ihpMyF5AYdMCxEsLV6w0a",
+      "href": "https://open.spotify.com/album/5ihpMyF5AYdMCxEsLV6w0a",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d6150948425adb18c5686d03",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d6150948425adb18c5686d03",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d6150948425adb18c5686d03",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das Lufttaxi",
+      "episode": 45,
+      "spotifyUri": "spotify:album:0d3Z4saWW50l3MXNkpCJ7I",
+      "href": "https://open.spotify.com/album/0d3Z4saWW50l3MXNkpCJ7I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273028f0a26bd591820fbbb6856",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02028f0a26bd591820fbbb6856",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851028f0a26bd591820fbbb6856",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Karla gibt nicht auf",
+      "episode": 46,
+      "spotifyUri": "spotify:album:3y9j3kFCrP3Q0O7ZibDi7p",
+      "href": "https://open.spotify.com/album/3y9j3kFCrP3Q0O7ZibDi7p",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d36850dc76c724df3d4ff42d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d36850dc76c724df3d4ff42d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d36850dc76c724df3d4ff42d",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das Reitturnier",
+      "episode": 47,
+      "spotifyUri": "spotify:album:5h7Ggh6H0gMI3oznLBxdrv",
+      "href": "https://open.spotify.com/album/5h7Ggh6H0gMI3oznLBxdrv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736a449f297b2da628188eb294",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026a449f297b2da628188eb294",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516a449f297b2da628188eb294",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "ist krank",
+      "episode": 48,
+      "spotifyUri": "spotify:album:4SVLS2ncc6Ot1JJ8B3qbBr",
+      "href": "https://open.spotify.com/album/4SVLS2ncc6Ot1JJ8B3qbBr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733fbc1cbe61484d1ad5f8472a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023fbc1cbe61484d1ad5f8472a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513fbc1cbe61484d1ad5f8472a",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Hexengeburtstag",
+      "episode": 49,
+      "spotifyUri": "spotify:album:7b7uWHRAQVXwrBgxNoCPRl",
+      "href": "https://open.spotify.com/album/7b7uWHRAQVXwrBgxNoCPRl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734068be2e01e559c70b6efb13",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024068be2e01e559c70b6efb13",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514068be2e01e559c70b6efb13",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "im Orient",
+      "episode": 50,
+      "spotifyUri": "spotify:album:0qcnTqFeybzQduW1Dv3LK8",
+      "href": "https://open.spotify.com/album/0qcnTqFeybzQduW1Dv3LK8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739cbed37710bdeb90d7907b3b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029cbed37710bdeb90d7907b3b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519cbed37710bdeb90d7907b3b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "wird entführt",
+      "episode": 51,
+      "spotifyUri": "spotify:album:3H9tZerTI2ajefyBmDfTTf",
+      "href": "https://open.spotify.com/album/3H9tZerTI2ajefyBmDfTTf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735f757113205965b7db5a4004",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025f757113205965b7db5a4004",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515f757113205965b7db5a4004",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Wo ist Kartoffelbrei?",
+      "episode": 52,
+      "spotifyUri": "spotify:album:6uCqLQcwGE68ivDdRKHJBx",
+      "href": "https://open.spotify.com/album/6uCqLQcwGE68ivDdRKHJBx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273df02fd484f16deb38064ab5f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02df02fd484f16deb38064ab5f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851df02fd484f16deb38064ab5f",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Superhexspruch",
+      "episode": 53,
+      "spotifyUri": "spotify:album:523x0XaylN0MAV7eoT26sb",
+      "href": "https://open.spotify.com/album/523x0XaylN0MAV7eoT26sb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e2bd4a8d74fd3a179d1946a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e2bd4a8d74fd3a179d1946a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e2bd4a8d74fd3a179d1946a0",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Computerhexe",
+      "episode": 54,
+      "spotifyUri": "spotify:album:4JVyKVAgkslJJ1VIjgYtJO",
+      "href": "https://open.spotify.com/album/4JVyKVAgkslJJ1VIjgYtJO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fbaada8f58f662c067542254",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fbaada8f58f662c067542254",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fbaada8f58f662c067542254",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Mamis Geburtstag",
+      "episode": 55,
+      "spotifyUri": "spotify:album:5gaHwQOHH6gEzOtESjzMhZ",
+      "href": "https://open.spotify.com/album/5gaHwQOHH6gEzOtESjzMhZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273127441a9fc2ced9cdaf5ee74",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02127441a9fc2ced9cdaf5ee74",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851127441a9fc2ced9cdaf5ee74",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Wetterfrosch",
+      "episode": 56,
+      "spotifyUri": "spotify:album:2uKW5UZvpjK12HCu6mjWMn",
+      "href": "https://open.spotify.com/album/2uKW5UZvpjK12HCu6mjWMn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732498d0460c3a8b19eb790afe",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022498d0460c3a8b19eb790afe",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512498d0460c3a8b19eb790afe",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Blaue Brief",
+      "episode": 57,
+      "spotifyUri": "spotify:album:385rWt3WU6eMB1WQO5WNtn",
+      "href": "https://open.spotify.com/album/385rWt3WU6eMB1WQO5WNtn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273389ee98cb66f8c802d0f9dcb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02389ee98cb66f8c802d0f9dcb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851389ee98cb66f8c802d0f9dcb",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "und das Dino-Ei",
+      "episode": 58,
+      "spotifyUri": "spotify:album:4P4UCQT5t1q0PkCMEpVVdz",
+      "href": "https://open.spotify.com/album/4P4UCQT5t1q0PkCMEpVVdz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737a1824e7333b6fbd2c30c683",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027a1824e7333b6fbd2c30c683",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517a1824e7333b6fbd2c30c683",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "und Dino",
+      "episode": 59,
+      "spotifyUri": "spotify:album:3C7DaJS1K0LnoujmouszQh",
+      "href": "https://open.spotify.com/album/3C7DaJS1K0LnoujmouszQh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273328967907c896597716fd221",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02328967907c896597716fd221",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851328967907c896597716fd221",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Geisterkater",
+      "episode": 60,
+      "spotifyUri": "spotify:album:5YBKwIf9x9U7NHkov762o1",
+      "href": "https://open.spotify.com/album/5YBKwIf9x9U7NHkov762o1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27376c50aeac51d1b4d938e1d3b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0276c50aeac51d1b4d938e1d3b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485176c50aeac51d1b4d938e1d3b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Flaschengeist",
+      "episode": 61,
+      "spotifyUri": "spotify:album:4fWgzDHQmDJgvIsX1lz8pv",
+      "href": "https://open.spotify.com/album/4fWgzDHQmDJgvIsX1lz8pv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27305d14d644d284cc8683193cf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0205d14d644d284cc8683193cf",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485105d14d644d284cc8683193cf",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das feuerrote Nashorn",
+      "episode": 62,
+      "spotifyUri": "spotify:album:6SxDc4KDLTq1UiX0BkHl7R",
+      "href": "https://open.spotify.com/album/6SxDc4KDLTq1UiX0BkHl7R",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734fa7d6fd451570684242a023",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024fa7d6fd451570684242a023",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514fa7d6fd451570684242a023",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Wahrsagerin",
+      "episode": 63,
+      "spotifyUri": "spotify:album:7xRpOtXpkNiBcJEnXVfccV",
+      "href": "https://open.spotify.com/album/7xRpOtXpkNiBcJEnXVfccV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e70948a378b1eadd77f7073f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e70948a378b1eadd77f7073f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e70948a378b1eadd77f7073f",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die neue Schule",
+      "episode": 64,
+      "spotifyUri": "spotify:album:5nTJZt13W1sGJZ2CNpUwaV",
+      "href": "https://open.spotify.com/album/5nTJZt13W1sGJZ2CNpUwaV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737266a478970d9d4be9a89b98",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027266a478970d9d4be9a89b98",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517266a478970d9d4be9a89b98",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das Wettfliegen",
+      "episode": 65,
+      "spotifyUri": "spotify:album:2z4cLfFGNvddC9HxvPLkGE",
+      "href": "https://open.spotify.com/album/2z4cLfFGNvddC9HxvPLkGE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f6c0b35961b4ee456bba8501",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f6c0b35961b4ee456bba8501",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f6c0b35961b4ee456bba8501",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das verhexte Osterei",
+      "episode": 66,
+      "spotifyUri": "spotify:album:3k1zRojgdOKuvwrNn1UZTG",
+      "href": "https://open.spotify.com/album/3k1zRojgdOKuvwrNn1UZTG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27371a44c4e3df1f7922f6b2572",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0271a44c4e3df1f7922f6b2572",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485171a44c4e3df1f7922f6b2572",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der weiße Kakadu",
+      "episode": 67,
+      "spotifyUri": "spotify:album:0I2bIG46Q3YPvx7afu76e8",
+      "href": "https://open.spotify.com/album/0I2bIG46Q3YPvx7afu76e8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27309ab73ade0394eb512908c72",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0209ab73ade0394eb512908c72",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485109ab73ade0394eb512908c72",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "und die Piraten",
+      "episode": 68,
+      "spotifyUri": "spotify:album:7sTPdEQPX39U72i1GQlnN3",
+      "href": "https://open.spotify.com/album/7sTPdEQPX39U72i1GQlnN3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734a106df812b5b3cd15dbadd2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024a106df812b5b3cd15dbadd2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514a106df812b5b3cd15dbadd2",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Verhexte Weihnachten",
+      "episode": 69,
+      "spotifyUri": "spotify:album:6LQALkZO2BD7UJW5Rbe7AQ",
+      "href": "https://open.spotify.com/album/6LQALkZO2BD7UJW5Rbe7AQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27365ae7f0ef3086e6ef40eb908",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0265ae7f0ef3086e6ef40eb908",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485165ae7f0ef3086e6ef40eb908",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das gestohlene Hexenkraut",
+      "episode": 70,
+      "spotifyUri": "spotify:album:5HfjaJmcfj9S9bRGkQpBJ5",
+      "href": "https://open.spotify.com/album/5HfjaJmcfj9S9bRGkQpBJ5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d3e10b507a0b652cd753f4a9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d3e10b507a0b652cd753f4a9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d3e10b507a0b652cd753f4a9",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Hexenschule",
+      "episode": 71,
+      "spotifyUri": "spotify:album:0IzwTIRrtytdA7WEOJ9CP7",
+      "href": "https://open.spotify.com/album/0IzwTIRrtytdA7WEOJ9CP7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736885a5f33f203bbbd18d0f96",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026885a5f33f203bbbd18d0f96",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516885a5f33f203bbbd18d0f96",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der verhexte Kalender",
+      "episode": 72,
+      "spotifyUri": "spotify:album:7qeMWKOavSYt562C3GVgSK",
+      "href": "https://open.spotify.com/album/7qeMWKOavSYt562C3GVgSK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736fbbeb6175e8148497ac1f94",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026fbbeb6175e8148497ac1f94",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516fbbeb6175e8148497ac1f94",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Freitag, der 13.",
+      "episode": 73,
+      "spotifyUri": "spotify:album:3x0m5Ws2aINLSRbT4SCslm",
+      "href": "https://open.spotify.com/album/3x0m5Ws2aINLSRbT4SCslm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273534816d276779263c271246e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02534816d276779263c271246e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851534816d276779263c271246e",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Brieffreund",
+      "episode": 74,
+      "spotifyUri": "spotify:album:4oS72Kd9VNckIDnYWn3wSn",
+      "href": "https://open.spotify.com/album/4oS72Kd9VNckIDnYWn3wSn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ea36cdcb70508d335846c708",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ea36cdcb70508d335846c708",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ea36cdcb70508d335846c708",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die neue Lehrerin",
+      "episode": 75,
+      "spotifyUri": "spotify:album:2VriXf9hxcRWDlmzlV72KD",
+      "href": "https://open.spotify.com/album/2VriXf9hxcRWDlmzlV72KD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731bc8db320394abbf24746171",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021bc8db320394abbf24746171",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511bc8db320394abbf24746171",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Schubia dreht durch",
+      "episode": 76,
+      "spotifyUri": "spotify:album:1HPi7hKKtbHdIaGMxnxYPd",
+      "href": "https://open.spotify.com/album/1HPi7hKKtbHdIaGMxnxYPd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737c16539af12cae65f6384825",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027c16539af12cae65f6384825",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517c16539af12cae65f6384825",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "im Hexeninternat",
+      "episode": 77,
+      "spotifyUri": "spotify:album:59MCBgKhiiRP4U4j5nv0PX",
+      "href": "https://open.spotify.com/album/59MCBgKhiiRP4U4j5nv0PX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730212db212a4b9da6b92e8a9e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020212db212a4b9da6b92e8a9e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510212db212a4b9da6b92e8a9e",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "und Elea Eluanda",
+      "episode": 78,
+      "spotifyUri": "spotify:album:2VoEjVIJjsLMfadnIgl8fS",
+      "href": "https://open.spotify.com/album/2VoEjVIJjsLMfadnIgl8fS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ecbe75066d5aed1b5a6d4de9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ecbe75066d5aed1b5a6d4de9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ecbe75066d5aed1b5a6d4de9",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Papis Geburtstag",
+      "episode": 79,
+      "spotifyUri": "spotify:album:407gZmvL9MdtwmrW8ySEqQ",
+      "href": "https://open.spotify.com/album/407gZmvL9MdtwmrW8ySEqQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27379f3168c8c6de05123cd2a25",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0279f3168c8c6de05123cd2a25",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485179f3168c8c6de05123cd2a25",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das Schmusekätzchen",
+      "episode": 80,
+      "spotifyUri": "spotify:album:1ch6uYeVDAxn7jpZMKaLET",
+      "href": "https://open.spotify.com/album/1ch6uYeVDAxn7jpZMKaLET",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733bee4cc46ab05753dc47529d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023bee4cc46ab05753dc47529d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513bee4cc46ab05753dc47529d",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Mami in Not",
+      "episode": 81,
+      "spotifyUri": "spotify:album:6cWFEg9YIvV2wVuJVl0N68",
+      "href": "https://open.spotify.com/album/6cWFEg9YIvV2wVuJVl0N68",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27327b305b1cec6af958204ba09",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0227b305b1cec6af958204ba09",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485127b305b1cec6af958204ba09",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Hexspruch mit Folgen",
+      "episode": 82,
+      "spotifyUri": "spotify:album:2Wegfuh5Dlt8sNf9Eae1PY",
+      "href": "https://open.spotify.com/album/2Wegfuh5Dlt8sNf9Eae1PY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273512325bcfa6b6bd44d940657",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02512325bcfa6b6bd44d940657",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851512325bcfa6b6bd44d940657",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Klassenreise",
+      "episode": 83,
+      "spotifyUri": "spotify:album:2aWERllAjtNNK9Kbkm2I2q",
+      "href": "https://open.spotify.com/album/2aWERllAjtNNK9Kbkm2I2q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27333baf0260519847422424ed7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0233baf0260519847422424ed7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485133baf0260519847422424ed7",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das Hexenhoroskop",
+      "episode": 84,
+      "spotifyUri": "spotify:album:0pGc98KAvzdN2JjWNR89d8",
+      "href": "https://open.spotify.com/album/0pGc98KAvzdN2JjWNR89d8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27394ad67dcfad2660a833e6230",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0294ad67dcfad2660a833e6230",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485194ad67dcfad2660a833e6230",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Hundebabys",
+      "episode": 85,
+      "spotifyUri": "spotify:album:6s9C4BFs9a2cVXGJrjwvHP",
+      "href": "https://open.spotify.com/album/6s9C4BFs9a2cVXGJrjwvHP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b66cd16ce7fc618fd5002090",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b66cd16ce7fc618fd5002090",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b66cd16ce7fc618fd5002090",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Kann Papi hexen?",
+      "episode": 86,
+      "spotifyUri": "spotify:album:7fud5UxfNO0Hr0nFo6ibNZ",
+      "href": "https://open.spotify.com/album/7fud5UxfNO0Hr0nFo6ibNZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734547306b9bd85b5681bb581b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024547306b9bd85b5681bb581b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514547306b9bd85b5681bb581b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die vertauschte Hexenkugel",
+      "episode": 87,
+      "spotifyUri": "spotify:album:1cN8O0Rul5pXwEuB5NGNuo",
+      "href": "https://open.spotify.com/album/1cN8O0Rul5pXwEuB5NGNuo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734a5a481c0a50ca2b71b4bde7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024a5a481c0a50ca2b71b4bde7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514a5a481c0a50ca2b71b4bde7",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Superpudel Puck",
+      "episode": 88,
+      "spotifyUri": "spotify:album:3DhwS2IWRKLPkgpGEAHkqp",
+      "href": "https://open.spotify.com/album/3DhwS2IWRKLPkgpGEAHkqp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d867388acc0a236a0901fff",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022d867388acc0a236a0901fff",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512d867388acc0a236a0901fff",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Junghexenbande",
+      "episode": 89,
+      "spotifyUri": "spotify:album:4IZgtUIZi8ZV0z5QgeuOHL",
+      "href": "https://open.spotify.com/album/4IZgtUIZi8ZV0z5QgeuOHL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27395e3bd7905525f17b74b64e6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0295e3bd7905525f17b74b64e6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485195e3bd7905525f17b74b64e6",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Oma Grete sorgt für Wirbel",
+      "episode": 90,
+      "spotifyUri": "spotify:album:4RZmAzNsgqnXg3XmbRhtlS",
+      "href": "https://open.spotify.com/album/4RZmAzNsgqnXg3XmbRhtlS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27351e837d5a8ced79dc0063538",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0251e837d5a8ced79dc0063538",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485151e837d5a8ced79dc0063538",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Maritas Geheimnis",
+      "episode": 91,
+      "spotifyUri": "spotify:album:7bSMWMekbcIt2UGSTcgQbW",
+      "href": "https://open.spotify.com/album/7bSMWMekbcIt2UGSTcgQbW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27335ea879ae2ba86124cead5a5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0235ea879ae2ba86124cead5a5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485135ea879ae2ba86124cead5a5",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das geheimnisvolle Schloss",
+      "episode": 92,
+      "spotifyUri": "spotify:album:0Xn2j7LCD7alTHyqI1sZZy",
+      "href": "https://open.spotify.com/album/0Xn2j7LCD7alTHyqI1sZZy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e9c1e3b4e1b74c45b8e51760",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e9c1e3b4e1b74c45b8e51760",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e9c1e3b4e1b74c45b8e51760",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "braucht Hilfe",
+      "episode": 93,
+      "spotifyUri": "spotify:album:20cMkwAbd3YBKpy7qKK8Db",
+      "href": "https://open.spotify.com/album/20cMkwAbd3YBKpy7qKK8Db",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273059bd9b08f3358e85c12d52e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02059bd9b08f3358e85c12d52e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851059bd9b08f3358e85c12d52e",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die verhexte Zeitreise",
+      "episode": 94,
+      "spotifyUri": "spotify:album:3Bn0AwH2iS3iiNWid5DNgX",
+      "href": "https://open.spotify.com/album/3Bn0AwH2iS3iiNWid5DNgX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735eb8f6c82f1a3b7653bd696e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025eb8f6c82f1a3b7653bd696e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515eb8f6c82f1a3b7653bd696e",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die verbotene Hexeninsel",
+      "episode": 95,
+      "spotifyUri": "spotify:album:7EP950Y99vx1wZbWnR7niE",
+      "href": "https://open.spotify.com/album/7EP950Y99vx1wZbWnR7niE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a8cdd4a021edba3e932c6aae",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a8cdd4a021edba3e932c6aae",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a8cdd4a021edba3e932c6aae",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das traurige Einhorn",
+      "episode": 96,
+      "spotifyUri": "spotify:album:1nWxVgOE75Z38IqATOY9pW",
+      "href": "https://open.spotify.com/album/1nWxVgOE75Z38IqATOY9pW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27366190744828992b9c9a8fa8a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0266190744828992b9c9a8fa8a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485166190744828992b9c9a8fa8a",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Überraschung für Mami",
+      "episode": 97,
+      "spotifyUri": "spotify:album:0CiLLl9LyAK1WozIUyHxBy",
+      "href": "https://open.spotify.com/album/0CiLLl9LyAK1WozIUyHxBy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731d2c27c42b3e046dce47830f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021d2c27c42b3e046dce47830f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511d2c27c42b3e046dce47830f",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Prinzessinnen von Thunderstorm",
+      "episode": 98,
+      "spotifyUri": "spotify:album:5oOA2fFkPVsX1eEKMLvCxg",
+      "href": "https://open.spotify.com/album/5oOA2fFkPVsX1eEKMLvCxg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27386c60112a58bc340ad613bbe",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0286c60112a58bc340ad613bbe",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485186c60112a58bc340ad613bbe",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die kleine Spürnase",
+      "episode": 99,
+      "spotifyUri": "spotify:album:1Iul2w374DgjJyZdj5C0aX",
+      "href": "https://open.spotify.com/album/1Iul2w374DgjJyZdj5C0aX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f36648cfe854b1e039fbdbf6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f36648cfe854b1e039fbdbf6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f36648cfe854b1e039fbdbf6",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die große Hexenparty",
+      "episode": 100,
+      "spotifyUri": "spotify:album:06Nk9gIHUWEcRA1403hx69",
+      "href": "https://open.spotify.com/album/06Nk9gIHUWEcRA1403hx69",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e8bfd34b5e3f7b337abe1d3b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e8bfd34b5e3f7b337abe1d3b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e8bfd34b5e3f7b337abe1d3b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "und Piraten-Lilly",
+      "episode": 101,
+      "spotifyUri": "spotify:album:11vwmqeqjOwpyIg3oC9bim",
+      "href": "https://open.spotify.com/album/11vwmqeqjOwpyIg3oC9bim",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ef629c4928a1c0796b60c257",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ef629c4928a1c0796b60c257",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ef629c4928a1c0796b60c257",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Ballett-Tanzgruppe",
+      "episode": 102,
+      "spotifyUri": "spotify:album:0QVIG5VArUfN5mdUCJamXe",
+      "href": "https://open.spotify.com/album/0QVIG5VArUfN5mdUCJamXe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736475bd0d7b802b6fa426ac4a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026475bd0d7b802b6fa426ac4a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516475bd0d7b802b6fa426ac4a",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Hexenschatz",
+      "episode": 103,
+      "spotifyUri": "spotify:album:0LPotWHTscY0p960bKPnXs",
+      "href": "https://open.spotify.com/album/0LPotWHTscY0p960bKPnXs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b5fcd10d54ea6377d9a4b53f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b5fcd10d54ea6377d9a4b53f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b5fcd10d54ea6377d9a4b53f",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der verhexte Bürgermeister",
+      "episode": 104,
+      "spotifyUri": "spotify:album:3SoRs56zin3XsOcR0jjnuz",
+      "href": "https://open.spotify.com/album/3SoRs56zin3XsOcR0jjnuz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f5cc4cf80fa406483225b88a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f5cc4cf80fa406483225b88a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f5cc4cf80fa406483225b88a",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Hexenküche",
+      "episode": 105,
+      "spotifyUri": "spotify:album:2AilQcxXGDAH8fAbx6hlen",
+      "href": "https://open.spotify.com/album/2AilQcxXGDAH8fAbx6hlen",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b3288f59b70b2bef00c592c3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b3288f59b70b2bef00c592c3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b3288f59b70b2bef00c592c3",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der verrückte Staubsauger",
+      "episode": 106,
+      "spotifyUri": "spotify:album:18m3UfFgOBeycdvncflyjr",
+      "href": "https://open.spotify.com/album/18m3UfFgOBeycdvncflyjr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735b4429afdd63415bee1b3b19",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025b4429afdd63415bee1b3b19",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515b4429afdd63415bee1b3b19",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Geheimsprache",
+      "episode": 107,
+      "spotifyUri": "spotify:album:3e0xy8ShIfg6Lw8qNWcK1I",
+      "href": "https://open.spotify.com/album/3e0xy8ShIfg6Lw8qNWcK1I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aa0edc93d08609797cf29f73",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aa0edc93d08609797cf29f73",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aa0edc93d08609797cf29f73",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Familienausflug",
+      "episode": 108,
+      "spotifyUri": "spotify:album:13epvlBYRs9IjtjpztaGsw",
+      "href": "https://open.spotify.com/album/13epvlBYRs9IjtjpztaGsw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736078addf32ca8a8de6cd4438",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026078addf32ca8a8de6cd4438",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516078addf32ca8a8de6cd4438",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Hexenball",
+      "episode": 109,
+      "spotifyUri": "spotify:album:2BF58dKEDN1h7Lqk8gHdQj",
+      "href": "https://open.spotify.com/album/2BF58dKEDN1h7Lqk8gHdQj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5f77d6c24f9ad3d9d8cc4b1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5f77d6c24f9ad3d9d8cc4b1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a5f77d6c24f9ad3d9d8cc4b1",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "und die kleine Elfe",
+      "episode": 110,
+      "spotifyUri": "spotify:album:3Ob6ngCds1HdMHlI1fFZ5P",
+      "href": "https://open.spotify.com/album/3Ob6ngCds1HdMHlI1fFZ5P",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273258e323d87d4eb7a9f404924",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02258e323d87d4eb7a9f404924",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851258e323d87d4eb7a9f404924",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Hexenbesen-Dieb",
+      "episode": 111,
+      "spotifyUri": "spotify:album:2mgNOEXdIDf2JVDfkxbLoc",
+      "href": "https://open.spotify.com/album/2mgNOEXdIDf2JVDfkxbLoc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730e135c88e9c7849dc9d861b7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020e135c88e9c7849dc9d861b7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510e135c88e9c7849dc9d861b7",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das TV-Hex-Duell",
+      "episode": 112,
+      "spotifyUri": "spotify:album:6ztYlU1ZWTsyBVu0GlRnu1",
+      "href": "https://open.spotify.com/album/6ztYlU1ZWTsyBVu0GlRnu1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ed93903fe31f35ae176a92d7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ed93903fe31f35ae176a92d7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ed93903fe31f35ae176a92d7",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Hexprüfung",
+      "episode": 113,
+      "spotifyUri": "spotify:album:2hhYz9kSY6kvk3ap3c3WrB",
+      "href": "https://open.spotify.com/album/2hhYz9kSY6kvk3ap3c3WrB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273184f2f7661dbc21b5e621b12",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02184f2f7661dbc21b5e621b12",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851184f2f7661dbc21b5e621b12",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der verhexte Wandertag",
+      "episode": 114,
+      "spotifyUri": "spotify:album:3yhsHZtwn7diH2c9cYuwRB",
+      "href": "https://open.spotify.com/album/3yhsHZtwn7diH2c9cYuwRB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737ffe7904fabee833b65acc8b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027ffe7904fabee833b65acc8b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517ffe7904fabee833b65acc8b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Urlaub in der Hexenpension",
+      "episode": 115,
+      "spotifyUri": "spotify:album:47VYGDLLY8oH6eiw1CE5wB",
+      "href": "https://open.spotify.com/album/47VYGDLLY8oH6eiw1CE5wB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730779138aa646cbfeef4c8a94",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020779138aa646cbfeef4c8a94",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510779138aa646cbfeef4c8a94",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Im Wald der Hexenbesen",
+      "episode": 116,
+      "spotifyUri": "spotify:album:3waZXnHoxYigFC8x4OHjrz",
+      "href": "https://open.spotify.com/album/3waZXnHoxYigFC8x4OHjrz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d6a3574a95e7bdf9b55ab3d6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d6a3574a95e7bdf9b55ab3d6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d6a3574a95e7bdf9b55ab3d6",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Besenflugprüfung",
+      "episode": 117,
+      "spotifyUri": "spotify:album:6Lo1YeuDbQugBGrdqtbwF3",
+      "href": "https://open.spotify.com/album/6Lo1YeuDbQugBGrdqtbwF3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734cfd649f0f57590a81196417",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024cfd649f0f57590a81196417",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514cfd649f0f57590a81196417",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Austauschschülerin",
+      "episode": 118,
+      "spotifyUri": "spotify:album:03UgGgq3RHBN2X2oIxYISg",
+      "href": "https://open.spotify.com/album/03UgGgq3RHBN2X2oIxYISg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fb46de4e58048264d52a16f9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fb46de4e58048264d52a16f9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fb46de4e58048264d52a16f9",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "und der Feuerdrache",
+      "episode": 119,
+      "spotifyUri": "spotify:album:6tkHnfpom7MtMFVNs4hGHw",
+      "href": "https://open.spotify.com/album/6tkHnfpom7MtMFVNs4hGHw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273019ecb45e25e06248e7f2415",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02019ecb45e25e06248e7f2415",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851019ecb45e25e06248e7f2415",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Affe ist los",
+      "episode": 120,
+      "spotifyUri": "spotify:album:17HukoZaZGFK2duA9JLszH",
+      "href": "https://open.spotify.com/album/17HukoZaZGFK2duA9JLszH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731d4946233acbeb035e2bdfb8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021d4946233acbeb035e2bdfb8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511d4946233acbeb035e2bdfb8",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der neue Schulgarten",
+      "episode": 121,
+      "spotifyUri": "spotify:album:1OWdzptir9UJjW4ApRy0bK",
+      "href": "https://open.spotify.com/album/1OWdzptir9UJjW4ApRy0bK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a7863464fbd6c2914179e9d8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a7863464fbd6c2914179e9d8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a7863464fbd6c2914179e9d8",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Chaos im Hexeninternat",
+      "episode": 122,
+      "spotifyUri": "spotify:album:2qD3O44kQYq9MO7eInmbl2",
+      "href": "https://open.spotify.com/album/2qD3O44kQYq9MO7eInmbl2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273388dbfdb7f9bcb2041bdadd6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02388dbfdb7f9bcb2041bdadd6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851388dbfdb7f9bcb2041bdadd6",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Oma Grete in Gefahr",
+      "episode": 123,
+      "spotifyUri": "spotify:album:2dIeA7oHFxnb0fS8DtL7Ih",
+      "href": "https://open.spotify.com/album/2dIeA7oHFxnb0fS8DtL7Ih",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273166c42bb34ad64347b8f5408",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02166c42bb34ad64347b8f5408",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851166c42bb34ad64347b8f5408",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das verrückte Huhn",
+      "episode": 124,
+      "spotifyUri": "spotify:album:1F1WnNVOh8fVzeDl8xBeJc",
+      "href": "https://open.spotify.com/album/1F1WnNVOh8fVzeDl8xBeJc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a667d58c7b28ff14b87372a4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a667d58c7b28ff14b87372a4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a667d58c7b28ff14b87372a4",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Der Strandurlaub",
+      "episode": 125,
+      "spotifyUri": "spotify:album:1pmyleYQz8MWZszsFvr7xj",
+      "href": "https://open.spotify.com/album/1pmyleYQz8MWZszsFvr7xj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f162726b77d8606ac32fd767",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f162726b77d8606ac32fd767",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f162726b77d8606ac32fd767",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das wilde Schlittenrennen",
+      "episode": 126,
+      "spotifyUri": "spotify:album:5OH74t2YiGAmrKmcZGtevb",
+      "href": "https://open.spotify.com/album/5OH74t2YiGAmrKmcZGtevb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a8036f34ab6602036536a2a2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a8036f34ab6602036536a2a2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a8036f34ab6602036536a2a2",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Bibi zieht aus",
+      "episode": 127,
+      "spotifyUri": "spotify:album:6xEB4R8xiXssXH8dSYoQAS",
+      "href": "https://open.spotify.com/album/6xEB4R8xiXssXH8dSYoQAS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dd93159c2db554d5c2eee6e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dd93159c2db554d5c2eee6e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dd93159c2db554d5c2eee6e2",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Ausgehext!",
+      "episode": 128,
+      "spotifyUri": "spotify:album:682cqkcWcjb1U3H8JxyK16",
+      "href": "https://open.spotify.com/album/682cqkcWcjb1U3H8JxyK16",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732495b381bd8ab6679004f381",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022495b381bd8ab6679004f381",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512495b381bd8ab6679004f381",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Ein sensationelles Team",
+      "episode": 129,
+      "spotifyUri": "spotify:album:0Lv1iJm33h876fkf7FSa5W",
+      "href": "https://open.spotify.com/album/0Lv1iJm33h876fkf7FSa5W",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730d5c3d9001beaa2da97eb87d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020d5c3d9001beaa2da97eb87d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510d5c3d9001beaa2da97eb87d",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Mami spielt verrückt",
+      "episode": 130,
+      "spotifyUri": "spotify:album:6DyX9shzgRTrVZmTq70JNU",
+      "href": "https://open.spotify.com/album/6DyX9shzgRTrVZmTq70JNU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735efa18d10778fba581962563",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025efa18d10778fba581962563",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515efa18d10778fba581962563",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Das verhexte Handy",
+      "episode": 131,
+      "spotifyUri": "spotify:album:1buYITtet3OnwtThxeV51Q",
+      "href": "https://open.spotify.com/album/1buYITtet3OnwtThxeV51Q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273afef57dc1efbb34374d8ffd6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02afef57dc1efbb34374d8ffd6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851afef57dc1efbb34374d8ffd6",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die Walpurgisnacht",
+      "episode": 132,
+      "spotifyUri": "spotify:album:0IknFOJldq3e8NUXKrYrIO",
+      "href": "https://open.spotify.com/album/0IknFOJldq3e8NUXKrYrIO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e9007cfadb9f4a29fe651c54",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e9007cfadb9f4a29fe651c54",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e9007cfadb9f4a29fe651c54",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "im Modeatelier",
+      "episode": 133,
+      "spotifyUri": "spotify:album:41l2qMSfmK9CgcuacL2CfC",
+      "href": "https://open.spotify.com/album/41l2qMSfmK9CgcuacL2CfC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f333b6dff0616f926bd75814",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f333b6dff0616f926bd75814",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f333b6dff0616f926bd75814",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Hexen unter Verdacht",
+      "episode": 134,
+      "spotifyUri": "spotify:album:7Bxr8SwNbQzX3q4uzVKgbk",
+      "href": "https://open.spotify.com/album/7Bxr8SwNbQzX3q4uzVKgbk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739d1a035f47de9ec1dcd2c74f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029d1a035f47de9ec1dcd2c74f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519d1a035f47de9ec1dcd2c74f",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Freunde in Gefahr",
+      "episode": 135,
+      "spotifyUri": "spotify:album:2ZL5h4hTZAaY3JrpyRYARM",
+      "href": "https://open.spotify.com/album/2ZL5h4hTZAaY3JrpyRYARM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27379a7f78403f89ffe5c48ff1b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0279a7f78403f89ffe5c48ff1b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485179a7f78403f89ffe5c48ff1b",
+          "width": 64
+        }
+      ]
+    }
+  ]
+}
