@@ -13,7 +13,7 @@ export default function Footer() {
         <div>
           <a
             className="btn btn-secondary"
-            href="https://github.com/simonneutert/sherlock-holmes-on-spotify">
+            href="https://github.com/simonneutert/bibi-blocksberg-on-spotify">
             Code auf Github!
           </a>
         </div>
