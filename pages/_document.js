@@ -6,7 +6,7 @@ export default function Document() {
   return (
     <Html lang="de">
       <Head>
-        <meta charset="utf-8" />
+        <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link href="/bootstrap.min.css" rel="stylesheet" defer />
         <script src="/bootstrap.bundle.min.js" defer></script>
