@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="container my-2">
         <div>
           <h6>Impressum</h6>
-          <p>Simon Neutert<br />Wackernheimer Straße 13<br />55262 Ingelheim</p>
+          <p>Simon Neutert<br />Postfach 1120<br />55258 Ingelheim</p>
         </div>
         <div>
           Die Daten stammen von der Spotify API und sollen Fans der Reihe helfen,
